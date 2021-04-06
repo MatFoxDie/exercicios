@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Triangulo POO\Triangulo POO\bin\Debug\Triangulo POO.exe.config
+C:\Users\user\source\repos\Triangulo POO\Triangulo POO\bin\Debug\Triangulo POO.exe
+C:\Users\user\source\repos\Triangulo POO\Triangulo POO\bin\Debug\Triangulo POO.pdb
+C:\Users\user\source\repos\Triangulo POO\Triangulo POO\obj\Debug\Triangulo POO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Triangulo POO\Triangulo POO\obj\Debug\Triangulo POO.exe
+C:\Users\user\source\repos\Triangulo POO\Triangulo POO\obj\Debug\Triangulo POO.pdb
