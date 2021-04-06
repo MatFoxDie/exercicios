@@ -1,1 +1,0 @@
-Exercicios feito em C#
