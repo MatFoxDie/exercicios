@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Vetor\Vetor\bin\Debug\Vetor.exe.config
+C:\Users\user\source\repos\Vetor\Vetor\bin\Debug\Vetor.exe
+C:\Users\user\source\repos\Vetor\Vetor\bin\Debug\Vetor.pdb
+C:\Users\user\source\repos\Vetor\Vetor\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Vetor\Vetor\obj\Debug\Vetor.exe
+C:\Users\user\source\repos\Vetor\Vetor\obj\Debug\Vetor.pdb
