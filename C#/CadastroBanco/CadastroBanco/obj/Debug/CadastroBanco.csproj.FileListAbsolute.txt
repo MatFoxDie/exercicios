@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\bin\Debug\CadastroBanco.exe.config
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\bin\Debug\CadastroBanco.exe
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\bin\Debug\CadastroBanco.pdb
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.exe
+C:\Users\user\source\repos\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.pdb
